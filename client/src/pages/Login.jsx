@@ -36,7 +36,7 @@ const Login = () => {
                         <form onSubmit={handleLogin}>
                            {
                             error && (<div class="alert alert-danger alert-dismissible fade show" role="alert">
-                                <strong>*</strong> All Fields are Required
+                                <strong>💀⚠️⚠️💀</strong> All Fields are Required
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                               </div>)
                            }
